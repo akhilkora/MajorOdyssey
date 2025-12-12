@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 const HeroContainer = styled.section`
   height: 100vh;
-  background-color: #2e52c1ff;
+  background: radial-gradient(circle at top, #006effff, #000000);
   color: #c5c5c5ff;
   display: flex;
   flex-direction: column;

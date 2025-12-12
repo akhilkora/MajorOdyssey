@@ -13,7 +13,7 @@ const fadeInUp = keyframes`
 `;
 
 const Wrapper = styled.section`
-  background: #223a83ff;
+  background: radial-gradient(circle at top, #006effff, #000000);
   padding: 7rem 2rem;
   display: flex;
   justify-content: center;

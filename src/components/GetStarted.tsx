@@ -2,7 +2,7 @@ import styled, { keyframes } from 'styled-components';
 import { useNavigate } from 'react-router-dom';
 
 const Section = styled.section`
-  background: #223a83ff;
+  background: radial-gradient(circle at top, #006effff, #000000);
   padding: 6rem 2rem;
   text-align: center;
   color: #eafcff;

@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const Section = styled.section`
-  background-color: #2e52c1ff;
+  background: radial-gradient(circle at top, #006effff, #000000);
   padding: 6rem 2rem;
   text-align: center;
   color: #eafcff;
