@@ -16,7 +16,7 @@ const Wrapper = styled.section`
   background: #223a83ff;
   padding: 7rem 2rem;
   display: flex;
-  justify-content: left;
+  justify-content: center;
   position: center;
 
   &::before {

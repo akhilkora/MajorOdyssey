@@ -13,13 +13,6 @@ const HeroContainer = styled.section`
   text-align: center;
 `;
 
-const LogoPlaceholder = styled.div`
-  width: 160px;
-  height: 160px;
-  background: #ffffffff;
-  border-radius: 50%;
-  margin-bottom: 2rem;
-`;
 
 const Title = styled.h1`
   font-size: 4rem;
@@ -37,7 +30,6 @@ const Subtitle = styled.p`
 const HeroSection: React.FC = () => {
   return (
     <HeroContainer id="hero">
-      <LogoPlaceholder />
       <Title>Major Odyssey</Title>
       <Subtitle>Try your future before choosing it</Subtitle>
     </HeroContainer>
